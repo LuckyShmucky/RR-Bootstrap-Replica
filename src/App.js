@@ -9,8 +9,8 @@ function App() {
     <div className="App">
      
        <DisplayNav/>
-       {/* <DisplayCard/>
-       <StoreListings/> */}
+       <DisplayCard/>
+       <StoreListings />
          
      
        

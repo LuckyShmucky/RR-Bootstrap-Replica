@@ -12,7 +12,7 @@ import StoreListings from './StoreListings';
 export default function DisplayNav(){
 
    
-git 
+
     return(
 
 <Router>

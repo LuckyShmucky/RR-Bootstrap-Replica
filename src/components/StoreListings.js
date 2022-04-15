@@ -18,7 +18,7 @@ export default function StoreListings(){
     return(
     
             // <h2>Browse stores in Houston</h2>
-<Container style={{ marginTop: "40px", textAlign: "center" }}>
+<Container style={{ marginTop: "25rem", textAlign: "center" }}>
     <Row style={{ borderBottom: "1px solid #E8E9EB", display: "flex", justifyContent: "space-evenly"}} >
         <Row>
             <Col xs=".5" >
